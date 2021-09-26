@@ -1,0 +1,85 @@
+*{
+   width: 300px;
+   height: 50px;
+   
+}
+.box1 {
+   width: 200px;
+   height: 70px;
+   font-size: 100%;
+   margin: 1%;
+   padding: 1%;
+   text-align: center;
+   text-shadow:2px 3px 3px  rgb(5, 170, 13)
+   
+ 
+}
+.box2{
+   width: 200px;
+   height: 70px;
+   font-size: 100%;
+   margin: 1%;
+   padding: 1%;
+   text-align: center;
+   text-shadow:2px 3px 3px  rgb(124, 90, 236);
+ 
+}
+   
+
+.box3 {
+   width: 200px;
+   height: 70px;
+   font-size: 100%;
+   margin: 1%;
+   padding: 1%;
+   text-align: center;
+   text-shadow: 2PX 3PX 4PX #ffff00;
+  
+}
+.box4 {
+   width: 200px;
+   height: 70px;
+   font-size: 100%;
+   margin: 1%;
+   padding: 1%;
+   text-align: center;
+   text-shadow: 2PX 3PX 5PX #400040;
+   
+}
+   
+
+.box5{
+   width: 200px;
+   height: 70px;
+   font-size: 100%;
+   margin: 1%;
+   padding: 1%;
+   text-align: center;
+   background-position: 10%;
+   text-shadow: 2px 3px 5px rgb(219, 18, 68)
+ }
+.box6{
+   width: 200px;
+   height: 70px;
+   font-size: 100%;
+   margin: 1%;
+   padding: 1%;
+   text-align: center;
+text-shadow: 2PX 3PX 4PX rgb(233, 20, 20);
+ }
+ .box7{
+    text-shadow: 2px 3px 4px darkcyan;
+    text-align: center;
+ }
+ .box8{
+    text-shadow: 2px 3px 4px #9990;
+text-align: center;
+ }
+ .box9{
+    text-shadow: 3px  4px 5px #999;
+    text-align: center;
+ }
+ .box10{
+    text-align: center;
+    text-shadow: 2px 3px 4px #808000;
+ }
